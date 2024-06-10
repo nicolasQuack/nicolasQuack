@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UI Design & Go Development**
 
-- 💬 Ask me about **React, Next, React Native and Swift**
+- 💬 Ask me about **React, Next, Golang and Swift**
 
 - 📫 How to reach me **nicolas.quack@gmail.com**
 
