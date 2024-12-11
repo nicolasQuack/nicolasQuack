@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Trinity Software House](https://trinityoficial.com)
+- 🔭 I’m currently working on [Trier Sistemas](https://www.triersistemas.com.br)
 
 - 🌱 I’m currently learning **UI Design & Go Development**
 
